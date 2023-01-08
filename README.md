@@ -50,4 +50,4 @@ docker container exec <container_id> cat /var/jenkins_home/secrets/initialAdminP
 
  ## Navigating to your localhost address in your preferred browser.
  
-   - http://localhost:8081/
+   - http://localhost:8080/
